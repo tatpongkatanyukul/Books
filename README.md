@@ -4,7 +4,7 @@
 |---|---|
 | ![Mountain-car cover]() | [การเรียนรู้ของเครื่องขั้นแนะนำ](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) 2017. ISBN 978-616-445-902-1 |
 | ![Python-dream cover]() | [คิดไพธอน](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) (แปล) 2023. ISBN (e-book) 978-616-438-813-0 |
-| ![Deep-sea dive cover]() | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) ? |
+| ![Deep-sea dive cover](https://github.com/tatpongkatanyukul/Books/raw/main/AdventuresML/coverThumbnail.png) | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) ? |
 
 ---
 
