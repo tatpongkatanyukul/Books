@@ -4,7 +4,7 @@
 |---|---|
 | ![Mountain-car cover]() | การเรียนรู้ของเครื่องขั้นแนะนำ 2017. ISBN 978-616-445-902-1 |
 | ![Python-dream cover]() | คิดไพธอน (แปล) 2023. ISBN (e-book) 978-616-438-813-0 |
-| ![Deep-sea dive cover]() | การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ ? |
+| ![Deep-sea dive cover]() | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) ? |
 
 ---
 
