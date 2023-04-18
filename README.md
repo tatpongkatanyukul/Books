@@ -2,9 +2,9 @@
 
 | ปก | ชื่อหนังสือ |
 |---|---|
-| ![Mountain-car cover]() | [การเรียนรู้ของเครื่องขั้นแนะนำ](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) 2017. ISBN 978-616-445-902-1 |
-| ![Python-dream cover]([https://github.com/tatpongkatanyukul/Books/raw/main/ThinkPython/CoverThumb.png](https://github.com/tatpongkatanyukul/Books/raw/main/ThinkPython/CoverThumb.png =x250) | [คิดไพธอน](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) (แปล) 2023. ISBN (e-book) 978-616-438-813-0 |
-| ![Deep-sea dive cover](https://github.com/tatpongkatanyukul/Books/raw/main/AdventuresML/coverThumbnail.png =x250) | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) ? |
+| <img src="" alt="Mountain-car cover" style="width:200px;"/> | [การเรียนรู้ของเครื่องขั้นแนะนำ](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) 2017. ISBN 978-616-445-902-1 |
+| <img src="https://github.com/tatpongkatanyukul/Books/raw/main/ThinkPython/CoverThumb.png" alt="Python-dream cover" style="width:200px;"/> | [คิดไพธอน](https://github.com/tatpongkatanyukul/Books/tree/main/MLBook) (แปล) 2023. ISBN (e-book) 978-616-438-813-0 |
+| <img src="https://github.com/tatpongkatanyukul/Books/raw/main/AdventuresML/coverThumbnail.png" alt="Deep-sea dive cover" style="width:200px;"/> | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) ? |
 
 ---
 
