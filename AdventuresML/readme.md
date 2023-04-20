@@ -1,5 +1,7 @@
 # การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ
 
+ย้ายหน้าหลักไป [Github: AdventuresML](https://github.com/tatpongkatanyukul/AdventuresML) เพื่อให้ url ไม่ยาวเกินไป
+
 |ปก|รายละเอียด|
 |---|---|
 | <img src="https://github.com/tatpongkatanyukul/Books/raw/main/AdventuresML/coverThumbnail.png" alt="Deep-sea dive cover" style="width:250px;"/> | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) 2023. ISBN (e-book) ? จำนวนหน้า 528 |
