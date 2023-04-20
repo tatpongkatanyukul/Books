@@ -1,5 +1,8 @@
 # การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ
 
+| <img src="https://github.com/tatpongkatanyukul/Books/raw/main/AdventuresML/coverThumbnail.png" alt="Deep-sea dive cover" style="width:100px;"/> | [การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ](https://github.com/tatpongkatanyukul/Books/tree/main/AdventuresML) 2023. ISBN (e-book) ? |
+
+
 ## ข้อมูล
 
 
