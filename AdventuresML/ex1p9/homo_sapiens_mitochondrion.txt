@@ -1,0 +1,2 @@
+https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta&from=5587&to=5655&strand=true
+AAGGGCTTAGCTTAATTAAAGTGGCTGATTTGCGTTCAGTTGATGCAGAGTGGGGTTTTGCAGTCCTTA

@@ -1,0 +1,1 @@
+https://www.ncbi.nlm.nih.gov/nuccore/NG_011618.3?from=28380&to=309814&report=fasta
