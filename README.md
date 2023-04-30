@@ -9,7 +9,7 @@
 ---
 
 # อยากจะเขียน
-* ท่องรอบโลกการคำนวณใน 80+ ไพธอนโปรแกรม (Around the World of Computation in 80+ Python Programs)
+* [ท่องรอบโลกการคำนวณใน 80+ ไพธอนโปรแกรม (Around the World of Computation in 80+ Python Programs)](https://github.com/tatpongkatanyukul/LeTourDuMonde)
   * รวบรวมแบบฝึกหัดการเขียนโปรแกรมจากหลาย ๆ วิชา โดยแบบฝึดหัดที่เนื้อหาที่หลากหลาย พร้อมแทรกทฤษฎีตามเรื่องที่เกี่ยวข้อง
   * ไม่ต้องกลัวว่าเนื้อหาจะเกิน 80 แบบฝึกหัด
   * กำลังคิดว่า อาจจะเป็น dual language
